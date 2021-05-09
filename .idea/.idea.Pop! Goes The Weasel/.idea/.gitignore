@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Pop! Goes The Weasel.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\Alan\Documents\personalProjects\Unity\Pop! Goes The Weasel\.idea\.idea.Pop! Goes The Weasel\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
