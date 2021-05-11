@@ -785,7 +785,7 @@ MonoBehaviour:
   - {fileID: 8003401570701086117, guid: e3c324475adefe84cae7529e180da089, type: 3}
   - {fileID: 8749853107234819068, guid: cea8f83dfeae73e479f08dea1a1b2662, type: 3}
   coin: {fileID: 8057485639113503863, guid: eb4302d46ab490c4ba434fb5cc776223, type: 3}
-  startTimeBtwSpawn: 6.5
+  startTimeBtwSpawn: 4.64
   decreaseTime: 0.15
   minTime: 0.65
 --- !u!4 &1441423636
