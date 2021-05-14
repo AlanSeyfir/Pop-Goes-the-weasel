@@ -5,14 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class GameOver : MonoBehaviour
 {
-    
     public void MainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+        ScoreScripts.score = 0;
     }
 
     public void ResetGame()
     {
         SceneManager.LoadScene("SampleScene");
+        ScoreScripts.score = 0;
     }
 }
